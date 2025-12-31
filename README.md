@@ -22,19 +22,19 @@ A continuacion se enlistan los pasos de instalación:
 
 2. Una vez descargado deberas descomprimirlo.
 
-    ![alt text](image-2.png)
+    ![alt text](img/image-2.png)
 
-    ![alt text](image-3.png)
+    ![alt text](img/image-3.png)
 
 3. Entra a la carpeta generada y haz doble click en el archivo `neoforge-21.1.141-installer.jar`
 
-    ![alt text](image-4.png)
+    ![alt text](img/image-4.png)
 
 4. Haz clic en el boton `Proced` y espera a que se instale.
 
-    ![alt text](image-5.png)
+    ![alt text](img/image-5.png)
 
 5. Una vez terminado presiona el boton de `OK`.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
