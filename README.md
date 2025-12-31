@@ -15,15 +15,15 @@ Entar a `Multijugador` en Minecraft, agrega un nuevo servidor y pega la siguient
 
 ## Instalación
 
-Para ingresar al servidor es necesario tener minecraft instalado en tu computadora, puedes usar tanto la versión premium de Minecraft o clientes grautiutos como `TLauncher`, `LauncherFenix`, etc. Además sera necesario instalar los `Mods` del servidor.
+Para ingresar al servidor es necesario tener minecraft instalado en tu computadora, puedes usar tanto la versión premium de Minecraft o clientes gratuitos como `TLauncher`, `LauncherFenix`, etc. Además sera necesario instalar los `Mods` del servidor.
 
-## Video (Guia de Instalación)
+## Video (Guia de Instalación de Mods)
 
 [![Ver video](https://img.youtube.com/vi/lgEusptkwgo/0.jpg)](https://www.youtube.com/watch?v=lgEusptkwgo)
 
-## Pasos de Instalación
+## Pasos de Instalación de Mods
 
-A continuacion se enlistan los pasos de instalación:
+A continuación se enlistan los pasos de instalación:
 
 1. Descarga el archivo comprimido que se adjunta a continuación.
     
@@ -39,11 +39,11 @@ A continuacion se enlistan los pasos de instalación:
 
     ![alt text](img/3.png)
 
-4. Haz clic en el boton `Proced` y espera a que se instale.
+4. Haz clic en el botón `Proced` y espera a que se instale.
 
     ![alt text](img/4.png)
 
-5. Una vez terminado presiona el boton de `OK`.
+5. Una vez terminado presiona el botón de `OK`.
 
     ![alt text](img/5.png)
 
