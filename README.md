@@ -1,8 +1,6 @@
-Server de Minecraft Oficial de ITSON
+# Bienvenido al Servidor
 
 ![Banner Minecraft ITSON](img/banner.png)
-
-# Bienvenido al Servidor
 
 Este es el servidor oficial de Minecraft para estudiantes de ITSON, el servidor cuenta con distintos mods que permiten una mejor experiencia de juego, agregando nuevos animales, mobs, biomas, jefes y estructuras que por defecto no exiten en Minecraft Vanilla, esperamos que puedas unirte y ser parte del servidor.
 
