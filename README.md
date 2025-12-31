@@ -23,56 +23,56 @@ A continuacion se enlistan los pasos de instalación:
 
 2. Una vez descargado deberas descomprimirlo.
 
-    ![alt text](img/image-2.png)
+    ![alt text](img/1.png)
 
-    ![alt text](img/image-3.png)
+    ![alt text](img/2.png)
 
 3. Entra a la carpeta generada y haz doble click en el archivo `neoforge-21.1.141-installer.jar`
 
-    ![alt text](img/image-4.png)
+    ![alt text](img/3.png)
 
 4. Haz clic en el boton `Proced` y espera a que se instale.
 
-    ![alt text](img/image-5.png)
+    ![alt text](img/4.png)
 
 5. Una vez terminado presiona el boton de `OK`.
 
-![alt text](img/image-1.png)
+![alt text](img/5.png)
 
 6. Abrir el Launcher de Minecraft.
 
-![alt text](image.png)
+![alt text](img/6.png)
 
 7. Ir a `Instalaciones`.
 
-![alt text](image-1.png)
+![alt text](img/7.png)
 
 8. Crear la carpeta de la instancia.
 
-![alt text](image-2.png)
+![alt text](img/8.png)
 
-![alt text](image-3.png)
+![alt text](img/8.2.png)
 
 9. Iniciar Minecraft para genera las carpetas necesarias.
 
-![alt text](image-4.png)
+![alt text](img/9.png)
 
 10. Una vez cargue lo podemos cerrar.
 
-![alt text](image-5.png)
+![alt text](img/10.png)
 
 11. Entrar nuevamente a la carpeta de la instancia.
 
-![alt text](image-6.png)
+![alt text](img/11.png)
 
 12. Pegar los `Mods` del archivo descargado en la carpeta de `Mods` de la instacia.
 
-![alt text](image-7.png)
+![alt text](img/12.png)
 
-![alt text](image-8.png)
+![alt text](img/12.2.png)
 
 13. Abrir por última vez Minecraft.
 
-![alt text](image-9.png)
+![alt text](img/13.png)
 
 14. Abajo a la izquierda debera aparecer la version `1.21.1` y `47 Mods` instalados.
