@@ -78,7 +78,7 @@ A continuación se enlistan los pasos de instalación:
 
 ## Link del Servidor
 
-Entar a `Multijugador` en Minecraft, agrega un nuevo servidor y pega la siguiente dirección: 
+Entra a `Multijugador` en Minecraft, agrega un nuevo servidor y pega la siguiente dirección: 
 
     window-verbal.gl.joinmc.link
 
