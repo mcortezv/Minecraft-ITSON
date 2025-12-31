@@ -8,7 +8,7 @@ Este es el servidor oficial de Minecraft para estudiantes de ITSON, el servidor 
 
 Entar a `Multijugador` en Minecraft, agrega un nuevo servidor y pega la siguiente dirección: 
 
-    `window-verbal.gl.joinmc.link`
+    window-verbal.gl.joinmc.link
 
 ![alt text](image.png)
 
