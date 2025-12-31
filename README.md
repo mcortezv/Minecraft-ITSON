@@ -5,8 +5,8 @@
 Este es el servidor oficial de Minecraft para estudiantes de ITSON, el servidor cuenta con distintos mods que permiten una mejor experiencia de juego, agregando nuevos animales, mobs, biomas, jefes y estructuras que por defecto no exiten en Minecraft Vanilla, esperamos que puedas unirte y ser parte del servidor.
 
 ## Únete a Discord 
-
-    https://discord.gg/9enXHjyJMp
+    
+   https://discord.gg/9enXHjyJMp
 
 ## Instalación
 
