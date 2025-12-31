@@ -12,7 +12,7 @@ Para ingresar al servidor es necesario tener minecraft instalado en tu computado
 ## Video (Guia de Instalación)
 
 
-## Pasos de Instalción
+## Pasos de Instalación
 
 A continuacion se enlistan los pasos de instalación:
 
@@ -37,4 +37,5 @@ A continuacion se enlistan los pasos de instalación:
 5. Una vez terminado presiona el boton de `OK`.
 
 ![alt text](img/image-1.png)
+
 
