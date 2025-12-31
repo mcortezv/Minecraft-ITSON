@@ -11,8 +11,9 @@ Para ingresar al servidor es necesario tener minecraft instalado en tu computado
 
 ## Video (Guia de Instalación)
 
+<video controls src="Instalacion de Mods.mov" title="Title"></video>
 
-## Pasos de Instalción
+## Pasos de Instalación
 
 A continuacion se enlistan los pasos de instalación:
 
