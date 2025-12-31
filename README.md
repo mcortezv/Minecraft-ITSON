@@ -84,6 +84,6 @@ A continuación se enlistan los pasos de instalación:
 
 Entra a `Multijugador` en Minecraft, agrega un nuevo servidor y pega la siguiente dirección: 
 
-    window-verbal.gl.joinmc.link
+    points-adjustable.gl.joinmc.link
 
-![alt text](image.png)
+![alt text](img/image-1.png)
