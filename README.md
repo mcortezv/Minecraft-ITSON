@@ -37,42 +37,42 @@ A continuacion se enlistan los pasos de instalación:
 
 5. Una vez terminado presiona el boton de `OK`.
 
-![alt text](img/5.png)
+    ![alt text](img/5.png)
 
 6. Abrir el Launcher de Minecraft.
 
-![alt text](img/6.png)
+    ![alt text](img/6.png)
 
 7. Ir a `Instalaciones`.
 
-![alt text](img/7.png)
+    ![alt text](img/7.png)
 
 8. Crear la carpeta de la instancia.
 
-![alt text](img/8.png)
+    ![alt text](img/8.png)
 
-![alt text](img/8.2.png)
+    ![alt text](img/8.2.png)
 
 9. Iniciar Minecraft para genera las carpetas necesarias.
 
-![alt text](img/9.png)
+    ![alt text](img/9.png)
 
 10. Una vez cargue lo podemos cerrar.
 
-![alt text](img/10.png)
+    ![alt text](img/10.png)
 
 11. Entrar nuevamente a la carpeta de la instancia.
 
-![alt text](img/11.png)
+    ![alt text](img/11.png)
 
 12. Pegar los `Mods` del archivo descargado en la carpeta de `Mods` de la instacia.
 
-![alt text](img/12.png)
+    ![alt text](img/12.png)
 
-![alt text](img/12.2.png)
+    ![alt text](img/12.2.png)
 
 13. Abrir por última vez Minecraft.
 
-![alt text](img/13.png)
+    ![alt text](img/13.png)
 
 14. Abajo a la izquierda debera aparecer la version `1.21.1` y `47 Mods` instalados.
